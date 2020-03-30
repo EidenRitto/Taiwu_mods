@@ -1,0 +1,11 @@
+﻿{
+  "Id": "DreamLover",
+  "DisplayName": "梦中情人",
+  "Author": "炽翼幻灵",
+  "Version": "1.0.7",
+  "AssemblyName": "DreamLover.dll",
+  "EntryMethod": "DreamLover.Main.Load",
+  "ManagerVersion": "0.12.2",
+  "HomePage": "https://bbs.nga.cn/read.php?tid=20180294",
+  "Repository": "https://raw.githubusercontent.com/phorcys/Taiwu_mods/master/Repository.json"
+}
